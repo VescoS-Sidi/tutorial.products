@@ -1,0 +1,8 @@
+questo è stato creato seguendo il seguente tutorial:
+
+Develop a Fiori Launchpad App with Your Own Dev Tools
+https://developers.sap.com/mission.sapui5-cf-launchpad.html
+
+info mia trial CF:
+C:\Users\svesco\Documents\SAP\formazione\personalTrialSapBTP.txt
+
